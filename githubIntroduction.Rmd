@@ -1,0 +1,55 @@
+---
+title: "Git and GitHub Introduction"
+author: "YOUR NAME HERE"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+
+## What is GitHub
+
+GitHub is a web-based graphical interface that allows you to collaborate efficiently and version control your work. Version control is useful in coding because it allows you to track down bugs in your code and changes that were made without too much hassle. When many people are working on code together, this becomes extremely important. 
+
+GitHub is the online tool that allows you to see and manage all the projects you are working on. 
+
+The version control piece comes in through software called Git. Git is designed for coordinatin work among programmers and keeping track of the different versions over time. Git prioritizes speed and data integrity. People usually use Git by coding at the command line. Instead of doing that, we will use GutHub Desktop which allows you to do version control in a graphical user interface (instead of coding). If you want to learn how to code at the command line, ask Sierra for some tutorials or start here: https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html. Be very careful when coding at the command line. It is easy to delete entire directories on your computer without meaning to. 
+
+In your GitHub account, click on the profile circle in the upper right corner to access your profile. Here you will find the Overview, Repositories, Projects, and Packages tabs. GitHub will keep track of your contributions to projects over time so you can feel really good about all the work you are doing. 
+
+Let's cover some GitHub terminology... 
+
+Repository or repo - A directory or storage space where your projects can live. It can be local to your computer or it can be storage on GitHub or other online host. You can keep code files, text files, image files, etc. in a repo. All the contributors on a project work from one repository, so that everything is stored there.
+
+Clone - creates a local copy (on your machine) of the remote repo. This allows you to make all your edits locally rather than directly in the source files of the origin repo. This is important for version control.
+
+Zipfiles - a single file that containes one or more compressed files. Zipping makes it easy to keep files together and make transporting them (emailing, downloading, and storing) faster and more efficient.
+
+Watch - you will be notified when updates are made to the repo
+
+Star - this saves a repo to your list of Starred repos. Some people use them to indicate that they like a project and other people use them as bookmarks to find the repo later.
+
+Fork - this makes a copy of a repo in your Github profile, but does not make a copy on your local machine. When you make changes to a forked copy of a repository, no changes are made to the origin repo. People use forks to suggest changes that should be made to someone else's project. 
+
+Pull - grabs any changes from the GitHub repository and merges them into your local repository
+
+Push - sends the most recent commit history from your local repository up to GitHub. This is simple if you are the only one working on a project. It gets complicated if you are collaborating with many people with their own versions of the master repo.
+
+master - the main branch, the one where all changes eventually get merged back into. This is the official working version of your project.
+
+branch - other versions of the main branch that you or collaborators use to work on code before merging branches together into the master
+
+tags - refer to a specific points in Git history. for example, you might tag different version releases
+
+README - a file that contains information about other files in a directory. It is usually a simple plain text file that describes everything about the other files so that someone new to a project could read only this file to get started
+
+Commits - a revision or individual change to a file. It is like saving a file, but everytime you commit with Git, a unique ID is created that allows you to keep a record of what change was made and by who.
+
+Tasks:
+
+1. GitHub already has a great tutorial on making your first repo. Give it a go:
+https://guides.github.com/activities/hello-world/
+
+2. Follow Ella on GitHub, username: 15edewolf.
+
+3. Practice knitting this R Markdown file and render the html for future reference (see the first tutorial for help)
+
+4. Practice navigating the GitHub Desktop by adding Sierra's repo called "COVID19-EJ" and opening the R Markdown file called "XXX". You can get started on the basic R tutorial for mapping. We will continue working on this tutorial in class on September 7th. An accompanying video will be available on Canvas for the second part of this environmental justice and mapping tutorial.
