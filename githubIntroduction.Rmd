@@ -52,4 +52,4 @@ https://guides.github.com/activities/hello-world/
 
 3. Practice knitting this R Markdown file and render the html for future reference (see the first tutorial for help)
 
-4. Practice navigating the GitHub Desktop by adding Sierra's repo called "COVID19-EJ" and opening the R Markdown file called "XXX". You can get started on the basic R tutorial for mapping. We will continue working on this tutorial in class on September 7th. An accompanying video will be available on Canvas for the second part of this environmental justice and mapping tutorial.
+4. Practice navigating the GitHub Desktop by adding Sierra's repo called "USAid_mapping" and opening the R Markdown file called "activity.Rmd". You can get started on the basic R tutorial for mapping found online. We will continue working on this tutorial in class on September 7th. An accompanying video will be available on Canvas for the second part of this environmental justice and mapping tutorial.
