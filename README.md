@@ -1,2 +1,2 @@
 # Capstone_Git_Intro
-practice with Git and GitHub for Capstone 2020
+practice with Git and GitHub for UWYO Capstone 2020
