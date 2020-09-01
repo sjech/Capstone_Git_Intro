@@ -56,7 +56,7 @@ https://guides.github.com/activities/hello-world/
 
 3. Practice knitting this R Markdown file and render the html for future reference (see the first tutorial if you need help with this)
 
-4. Practice navigating the GitHub Desktop by adding Sierra's repo called "USAid_mapping" (try to do this on your own, but there are instructions below if you need help). We will work through the mapping tutorial in class on September 7th. An accompanying video will be available on Canvas and Slack if you'd like to see how Sierra navigates RStudio for coding.
+4. Practice navigating the GitHub Desktop by adding Sierra's repo called "WorldAid" (try to do this on your own, but there are instructions below if you need help). We will work through the mapping tutorial in class on September 7th. An accompanying video will be available on Canvas and Slack if you'd like to see how Sierra navigates RStudio for coding.
 
 ############################################################
 Instructions for GitHub Desktop (Task #4 above) if you need it. 
@@ -66,8 +66,8 @@ Click on the Tab called "Current Repository"
 Go to Add > Clone Repository
 Navigate to the URL tab
 
-In your web browser, navigate to Sierra’s online GitHub repository “USAid_mapping” and find the large green “Code” button. Click on this button and find the clipboard next to the URL. Click on this to copy the URL. Now paste the URL into the GitHub Desktop prompt. 
+In your web browser, navigate to Sierra’s online GitHub repository “WorldAid” and find the large green “Code” button. Click on this button and find the clipboard next to the URL. Click on this to copy the URL. Now paste the URL into the GitHub Desktop prompt. 
 
 When prompted, choose the option to make changes to your own forked version, not to the master. This is the second option, click on that box and finish.
 
-Note: If you have trouble locating the URL for the repo, here is the URL: https://github.com/sjech/USAid_mapping
+Note: If you have trouble locating the URL for the repo, here is the URL: https://github.com/sjech/WorldAid
